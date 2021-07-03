@@ -1,3 +1,11 @@
 # Demo 2
 
-something
+learning to use git
+
+## Tutorial
+
+https://www.youtube.com/watch?v=RGOj5yH7evk&t=899s
+
+## Local development
+
+1. Open index.html in your browser.
